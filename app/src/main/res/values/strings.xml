@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripción del Contacto</string>
+    <string name="titulo_fecha">Fecha de Nacimiento</string>
+    <string name="btn_titulo">Siguiente</string>
+    <string name="text_nombre">Samir Reyes</string>
+    <string name="text_fecha">Fecha Nacimiento: 12/12/2012</string>
+    <string name="text_telefono">54891617</string>
+    <string name="text_email">samir1604@gmail.com</string>
+    <string name="text_descripcion">Texto de Prueba para la aplicacion</string>
+    <string name="text_titulo">Confirmar Datos</string>
+    <string name="btn_editar">Editar Datos</string>
+</resources>
